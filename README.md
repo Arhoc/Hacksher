@@ -9,3 +9,4 @@ the usage is very simple, you just need to do
 there you go.
 
 [!5G WIFI OMG](https://i.imgur.com/ymovtcz.png)
+<img src="https://i.imgur.com/ymovtcz.png"/>
