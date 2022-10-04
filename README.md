@@ -37,4 +37,4 @@ hacksher --wlist=rockyou.txt --hash=sha512 hash.txt
 ```
 there you go.
 
-<img src="https://i.imgur.com/ymovtcz.png"/>
+<img src="https://i.imgur.com/u6D4WNS.png"/>
