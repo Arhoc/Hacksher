@@ -1,5 +1,8 @@
-module github.com/arhoc/Hacksher
+module Arhoc/Hacksher
 
 go 1.19
 
-require github.com/rthornton128/goncurses v0.0.0-20220628231859-fd57939296e5 // indirect
+require (
+	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be // indirect
+	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
+)
