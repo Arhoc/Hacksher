@@ -2,24 +2,24 @@
 This is a very nice hash bruteforcer written in Go
 
 Those are the avaliable hashes that i can crack:
-    - MD4
-    - MD5
-    - SHA1
-    - SHA224
-    - SHA256
-    - SHA384
-    - SHA512
-    - RIPEMD160
-    - SHA3-224
-    - SHA3-256
-    - SHA3-384
-    - SHA3-512
-    - SHA512-224
-    - SHA512-256
-    - BLAKE2s-256
-    - BLAKE2b-256
-    - BLAKE2b-384
-    - BLAKE2b-512
+    - MD4 <br/>
+    - MD5<br/>
+    - SHA1<br/>
+    - SHA224<br/>
+    - SHA256<br/>
+    - SHA384<br/>
+    - SHA512<br/>
+    - RIPEMD160<br/>
+    - SHA3-224<br/>
+    - SHA3-256<br/>
+    - SHA3-384<br/>
+    - SHA3-512<br/>
+    - SHA512-224<br/>
+    - SHA512-256<br/>
+    - BLAKE2s-256<br/>
+    - BLAKE2b-256<br/>
+    - BLAKE2b-384<br/>
+    - BLAKE2b-512<br/>
 
 ## Usage
 the usage is very simple, you just need to do
