@@ -1,7 +1,7 @@
 # Hacksher
 This is a very nice hash bruteforcer written in Go
 
-Those are the avaliable hashes that i can crack: <br/><br/>
+Those are the avaliable hashes that i can crack: <br/>
     - MD4 <br/>
     - MD5<br/>
     - SHA1<br/>
